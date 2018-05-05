@@ -10,3 +10,5 @@ def fizzbuzz (int)
  nil
   end
 end
+
+int = gets.strip 
